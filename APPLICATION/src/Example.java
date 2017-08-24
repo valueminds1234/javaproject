@@ -5,7 +5,7 @@ public class Example {
 		// TODO Auto-generated method stub
 		
 		
-		String[] names= {"Joy","josh","thanuja","krishna"};
+		String[] names= {"Joy","Josh","Thanuja","Krishna","Cheritesh","Jaivant"};
 		
 		for(String s:names)
 		{
